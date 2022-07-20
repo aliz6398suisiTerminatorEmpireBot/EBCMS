@@ -2,10 +2,13 @@
 EBCMS is a CMS
 
 1.open CreateDataBase.txt file
-#Create DataBase Information
+
+# Create DataBase Information
 
 2.Open db.php file
-#Database connection file
+
+# Database connection file
+
 Default password:empty
 Default username:root
 Dafault hostname:localhost
